@@ -1,3 +1,32 @@
 h1 {
-  color: red;
+  margin: 0;
+  padding: 20px 0;
+  color: darkblue;
+  text-shadow: 3px 1px 1px black;
 }
+
+h2{
+  color: rgb(0, 162, 255);
+}
+
+h3{
+  color: lightsalmon;
+}
+
+h4{
+  color: green;
+}
+
+p, li, h1, h2, h3, h4{
+  text-align: center;
+}
+
+html {
+  background-color: lightgrey;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
